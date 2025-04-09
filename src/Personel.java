@@ -33,7 +33,7 @@ public class Personel {
         }
     }
 
-    // Çalışanın tüm bilgilerini gösteren metot
+    //Çalışanın tüm bilgilerini gösteren metot
     public void displayEmployeeInfo() {
         System.out.println("Ad: " + firstName);
         System.out.println("Soyad: " + lastName);
